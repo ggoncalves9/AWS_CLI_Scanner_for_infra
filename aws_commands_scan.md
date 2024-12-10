@@ -1,5 +1,5 @@
 
-# 20 Comandos AWS CLI para Análise de Serviços
+# Comandos AWS CLI para Análise de Serviços
 
 ## 1. Listar Buckets do S3
 ```bash
