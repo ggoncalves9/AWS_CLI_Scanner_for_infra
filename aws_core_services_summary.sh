@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# curl -o aws_core_services_summary.sh https://raw.githubusercontent.com/......./aws_core_services_summary.sh
+# curl -o aws_core_services_summary.sh https://raw.githubusercontent.com/ggoncalves9/AWS_CLI_Scanner_for_infra/refs/heads/main/aws_core_services_summary.sh
 
 
 # Verificar se AWS CLI e jq estão instalados
